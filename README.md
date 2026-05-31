@@ -1,20 +1,5 @@
 # 👋 Hi there, I'm Varshan (@VARSHAN69)
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/VARSHAN69/VARSHAN69/main/banner.gif" onerror="this.src='https://github-readme-stats.vercel.app/api?username=VARSHAN69&show_icons=true&theme=tokyonight'" alt="Varshan's Banner" width="100%">
-</div>
-
----
-
-### 🚀 About Me
-I am an **Elite Polyglot Software Engineer** passionate about building high-fidelity native applications, systems tooling, interactive simulations, and security sandboxes. I specialize in designing sleek, modern dark-mode glassmorphic user interfaces and high-performance backend microservices.
-
-* 📱 **Flutter & Dart** — Premium Android & iOS mobile applications.
-* 💻 **Electron & JS** — Desktop system utilities and tool suites.
-* 🦀 **Rust & Go** — Secure, concurrent systems engineering and automated CLI tools.
-* 🐍 **Python & C++** — Advanced algorithms, matrix solvers, and data analyzers.
-
----
 
 ### 📊 GitHub Analytics
 
